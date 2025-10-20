@@ -1,0 +1,28 @@
+{
+  "name": "modular-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "engines": {
+    "node": "^22.14.0",
+    "npm": "^10.1.0"
+  },
+  "scripts": {
+    "test": "node .",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenaChes/modular-discord-js-bot-template"
+  },
+  "keywords": [],
+  "author": "Len",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.6.0",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "mongoose": "^8.18.0"
+  }
+}

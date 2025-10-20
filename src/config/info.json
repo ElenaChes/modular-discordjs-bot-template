@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "color": {
+    "bot": "#124f67",
+    "owner": "#b7c6b5",
+    "deny": "#000000"
+  },
+  "deny": {
+    "title": "Access Denied",
+    "owner": "Only the bot owner can access this command.",
+    "admin": "Only an administrator can access this command.",
+    "default": "You don't have permission to use this command."
+  },
+  "errors": {
+    "loadingError": "I'm not done loading yet. Try again in a few seconds.",
+
+    "interactionFailure": "Something went wrong while processing your request.",
+    "interactionError": "This interaction type doesn't exist.",
+
+    "commandFailure": "Something went wrong while running this command.",
+    "commandError": "No code found for this command.",
+
+    "buttonFailure": "Something went wrong while running this button.",
+    "buttonBusy": "This button is already running, wait a moment.",
+    "buttonError": "No code found for this button.",
+
+    "menuFailure": "Something went wrong while running this menu.",
+    "menuError": "No code found for this select menu.",
+
+    "msgExtraArgsError": "Received too many arguments.",
+    "msgArgsError": "Didn't receive enough arguments.",
+    "msgAttachError": "Didn't receive enough attachments.",
+
+    "commandListDMs": "Can't access all these commands here? Try using them inside of a server."
+  },
+  "about": ["I'm a bot, I do things sometimes.", "Check out what I can do in [__`/bot commands`__]."]
+}
