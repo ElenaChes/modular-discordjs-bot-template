@@ -356,4 +356,4 @@ Retrieves the member's username color. If the color is `#000000` (no color), it 
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)

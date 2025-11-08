@@ -642,4 +642,4 @@ Check if a role is "valid" - it's bellow the bot's highest role so it can give a
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)

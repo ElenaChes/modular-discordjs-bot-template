@@ -176,4 +176,4 @@ The `CommandContext` class includes several helper functions located in `command
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)

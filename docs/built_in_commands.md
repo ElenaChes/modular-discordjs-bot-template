@@ -270,4 +270,4 @@ You can see how to use it in [src/functions/commands/test/testExample.js](../src
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)

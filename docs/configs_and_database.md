@@ -217,4 +217,4 @@ For example, the file could look like this:
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)

@@ -358,4 +358,4 @@ const folderConfig = {
 
 ---
 
-[<- Back to Main Page](README.md)
+[<- Back to Main Page](../)
